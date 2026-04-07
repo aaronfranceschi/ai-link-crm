@@ -240,3 +240,4 @@ Create a new client using the form with required field validation.
 ---
 
 If you want, I can also help you **make this README more attractive for GitHub (with badges, demo link, tech icons, and portfolio-ready format)** so it looks **more professional when clients see your repo.**
+fixed typo
