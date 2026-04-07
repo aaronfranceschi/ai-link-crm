@@ -239,17 +239,4 @@ Create a new client using the form with required field validation.
 
 ---
 
-# Possible Improvements
-
-* Unit testing (Jest, Testing Library)
-* Real database integration (Supabase, Prisma)
-* Authentication system (NextAuth.js)
-* Pagination for client lists
-* Tag system
-* Data export functionality
-* Dark mode
-* Real-time notifications
-
----
-
 If you want, I can also help you **make this README more attractive for GitHub (with badges, demo link, tech icons, and portfolio-ready format)** so it looks **more professional when clients see your repo.**
